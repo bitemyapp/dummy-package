@@ -1,5 +1,5 @@
 name:                dummy-package
-version:             0.1.0.0
+version:             0.2.0.0
 synopsis:            Dummy package for testing Hackage
 homepage:            bitemyapp.com
 license:             BSD3
